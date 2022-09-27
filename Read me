@@ -1,0 +1,13 @@
+Bark Texture neural network
+
+About Dataset
+Context
+BarkVN-50 consists of 50 categories of bark texture images. Total number is 5,578 images with 303× 404 pixels. Image classification task can be performed on this dataset.
+
+Acknowledgements
+Truong Hoang, Vinh (2020), “BarkVN-50”, Mendeley Data, V1, doi: 10.17632/gbt4tdmttn.1
+
+Inspiration
+Perform multiclass image classification on this dataset
+
+Link: https://www.kaggle.com/anitbhattacharjee/bark-texture-neural-network
